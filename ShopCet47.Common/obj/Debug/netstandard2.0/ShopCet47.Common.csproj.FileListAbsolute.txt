@@ -1,0 +1,9 @@
+I:\RaphaelSantos_SRV_side\RS_2020_m09d046F\ShopCet47\ShopCet47.Common\bin\Debug\netstandard2.0\ShopCet47.Common.deps.json
+I:\RaphaelSantos_SRV_side\RS_2020_m09d046F\ShopCet47\ShopCet47.Common\bin\Debug\netstandard2.0\ShopCet47.Common.dll
+I:\RaphaelSantos_SRV_side\RS_2020_m09d046F\ShopCet47\ShopCet47.Common\bin\Debug\netstandard2.0\ShopCet47.Common.pdb
+I:\RaphaelSantos_SRV_side\RS_2020_m09d046F\ShopCet47\ShopCet47.Common\obj\Debug\netstandard2.0\ShopCet47.Common.csprojAssemblyReference.cache
+I:\RaphaelSantos_SRV_side\RS_2020_m09d046F\ShopCet47\ShopCet47.Common\obj\Debug\netstandard2.0\ShopCet47.Common.AssemblyInfoInputs.cache
+I:\RaphaelSantos_SRV_side\RS_2020_m09d046F\ShopCet47\ShopCet47.Common\obj\Debug\netstandard2.0\ShopCet47.Common.AssemblyInfo.cs
+I:\RaphaelSantos_SRV_side\RS_2020_m09d046F\ShopCet47\ShopCet47.Common\obj\Debug\netstandard2.0\ShopCet47.Common.csproj.CoreCompileInputs.cache
+I:\RaphaelSantos_SRV_side\RS_2020_m09d046F\ShopCet47\ShopCet47.Common\obj\Debug\netstandard2.0\ShopCet47.Common.dll
+I:\RaphaelSantos_SRV_side\RS_2020_m09d046F\ShopCet47\ShopCet47.Common\obj\Debug\netstandard2.0\ShopCet47.Common.pdb
